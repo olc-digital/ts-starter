@@ -1,0 +1,15 @@
+{
+  "name": "yld-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gomezruo/yld-challenge.git",
+  "author": "George Richards <georgejjrichards@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  }
+}
