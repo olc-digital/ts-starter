@@ -1,11 +1,11 @@
 {
-  "name": "yld-challenge",
-  "version": "1.0.0",
+  "name": "node-starter",
+  "version": "0.0.1",
   "main": "index.js",
-  "repository": "git@github.com:gomezruo/yld-challenge.git",
-  "author": "George Richards <georgejjrichards@gmail.com>",
+  "author": "OLC Digital",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
+    "npx": "^10.2.2",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   },
